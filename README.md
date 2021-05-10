@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shivam094
+- 👋 Hi, I’m Shivam Roy
 - 👀 I’m interested in Coding and learning new technologies.
 - 🌱 I’m currently learning PHP , Javascript , React , Python.
 
